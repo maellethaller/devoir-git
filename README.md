@@ -1,5 +1,5 @@
 01 Nom: THALLER
-01 github:
+01 github: maellethaller
 02 Nom: CAYATTE
 02 github:
 03 Nom: HERNOT
